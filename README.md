@@ -29,7 +29,7 @@ Go to Application folder, browse to the Xcode application icon. Right-click it a
 
 
 ## Generated code
-This template generates all files that you need to create a new VIP module. All generated code is Swift 4.
+This template generates all files that you need to create a new clean module. All generated code is Swift 4.
 
 ## References
 - reference to my article
